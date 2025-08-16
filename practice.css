@@ -1,0 +1,23 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+#a1{
+    border:3px solid white;
+    background-color: #0f1111;
+    height: 60px;
+}
+.myclass{
+    margin-left: 200px;
+}
+#c1,#c2,#c3{
+    height: 100px;
+    width:100px;
+    border:2px solid black;
+    display:inline-block;
+    padding:25px;
+    margin:10px;
+}
+.anchor{
+    margin-left: 10px;
+}
