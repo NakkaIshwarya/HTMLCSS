@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+div{
+    display: inline-block;
+}
+
+#d1{
+    height: 400px;
+    width:400px;
+    border: 3px solid black;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    /* flex-wrap: wrap ; */
+    /* align-content: flex-start; */
+    /* flex-direction:row-reverse; */
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse;
+    justify-content: flex-end; */
+    /* justify-content: space-around; */
+    /* justify-content: flex-start; */
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+    /* flex-wrap: nowrap; */
+    /* flex-wrap: wrap-reverse; */
+
+}
+.myclass{
+    height: 50px;
+    width:100px;
+    color:white;
+}
+#id2{
+    height:120px;
+    width: 100px;
+    /* flex-grow: 1; */
+    flex-shrink:2;
+}
