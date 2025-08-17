@@ -1,0 +1,17 @@
+/* #d1{
+    height: 200px;
+    width:200px;
+    background-color: burlywood;
+    background-image: url(https://e7.pngegg.com/pngimages/252/267/png-clipart-doraemon-doraemon-3-nobita-no-machi-sos-doraemon-3-nobita-to-toki-no-hougyoku-high-definition-video-doraemon-white-fictional-character-thumbnail.png);
+    background-size: cover;
+} */
+ div{
+    height: 150px;
+    width:150px;
+    background-image: url(https://img.freepik.com/premium-photo/wide-angle-shot-single-tree-growing-clouded-sky-sunset-surrounded-by-grass_181624-22807.jpg);
+    background-size: cover;
+    position: fixed;
+    right:0px;
+    z-index: 1;
+    color: white;
+ }

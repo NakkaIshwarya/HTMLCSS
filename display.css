@@ -1,0 +1,27 @@
+#b1,#b2,#b3,#b4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(7, 86, 60);
+    border:2px solid black;
+    display: inline-block;
+    color: white;
+    font-size: 19px;
+}
+#b2{
+    position: relative;
+    top: 30px;
+}
+#b3{
+    position: absolute;
+    top:30px;
+    left:40px;
+}
+#b4{
+    position:fixed;
+    bottom:30px;
+}
+#b1{
+    position:sticky;
+    top:0px;
+}
+
