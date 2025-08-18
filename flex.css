@@ -1,0 +1,16 @@
+.myclass{
+    height:500px;
+    width:400px;
+    border: 2px solid black;
+    padding-left:15px;
+}
+#revamp{
+    object-fit: cover;  
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+p:hover{
+    text-decoration: underline black solid;
+}
