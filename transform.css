@@ -1,0 +1,22 @@
+div{
+    height: 100px;
+    width:100px;
+    background-color: chocolate;
+    border: 2px black solid;
+    margin:400px;
+    transition: all 1s ease-in;
+}
+div:hover{
+    /* transform: rotate(45deg); */
+    /* transform: scale(2,3); */
+    /* transform: scale(2); */
+    background-color: rgb(218, 169, 105);
+    /* transform: translateX(200px); */
+    /* transform: translateX(-600px); */
+    /* transform: translateY(800px); */
+    /* transform: translateY(-800px); */
+    /* transform: skew(45deg); */
+    /* transform: skewY(45deg); */
+    transform: skew(90deg);
+
+}
