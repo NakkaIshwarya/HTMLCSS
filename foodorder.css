@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+}
+.foodpic{
+    height: 600px;
+    background-image: url(https://d2clawv67efefq.cloudfront.net/ccbp-static-website/foodbg.png);
+    background-size: cover;
+
+}
+.booking{
+    height: 200px;
+    background-color: #f6c56e;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+/* .flex{
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+} */
